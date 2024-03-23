@@ -1,0 +1,5 @@
+sketchrnn_angel
+sketchrnn_apple
+sketchrnn_arm
+sketchrnn_banana
+sketchrnn_baseball
